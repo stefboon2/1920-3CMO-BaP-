@@ -1,3 +1,15 @@
+
+@font-face {
+    font-family: "Circular std";
+    src: url();
+    src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+    url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype"),
+    url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg");
+    font-weight: normal; 
+    }
+
+
+
 /* ALGEMEEN */
 
 
@@ -28,9 +40,9 @@ p{
 }
 
 .green{
-    color:green; 
+    color:green !important;
+    background-color:green; 
 }
-
 
 
 
@@ -38,5 +50,9 @@ button{
     background-color:black;
     color:white;
     padding: 3px;
+
+
+
+
 
 }
