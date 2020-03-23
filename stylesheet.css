@@ -3,13 +3,13 @@
 
 body {
 	font-family: 'Circular', sans-serif;
-	font-weight: 300;
-	overflow-x: hidden;	
+    overflow-x: hidden;	
+    text-align:right;
 }
 
 h1 {
     font-family: 'Circular';
-	font-size: 150px; 
+    font-size: 150px; 
 }
 
 
