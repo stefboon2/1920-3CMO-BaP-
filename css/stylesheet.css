@@ -4,7 +4,7 @@
 body {
 	font-family: 'Circular', sans-serif;
     overflow-x: hidden;	
-    text-align:right;
+    text-align:left;
 }
 
 h1 {
@@ -36,5 +36,5 @@ p{
 
 button{
     background-color:black;
-    
+
 }
