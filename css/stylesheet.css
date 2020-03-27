@@ -54,5 +54,11 @@ button{
     padding-right: 20px; 
     text-align:center !important; 
     border-radius: 50px;
+    border:none;
+}
+
+button :hover{
+
+    padding: 10px; 
 
 }
