@@ -49,10 +49,10 @@ p{
 button{
     background-color:black;
     color:white;
-    padding: 3px;
-
-
-
-
+    padding: 5px;
+    padding-left:20px;
+    padding-right: 20px; 
+    text-align:center !important; 
+    border-radius: 50px;
 
 }
