@@ -34,6 +34,7 @@ font-size: 12px;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    margin-left:120px;
   }
 
 .navigation li a {
@@ -52,6 +53,6 @@ font-size: 12px;
   }
 
   .image{
-      margin-top:80px;
+      margin-top:10px;
       border: solid 1px black; 
   }
