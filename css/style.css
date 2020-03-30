@@ -52,5 +52,6 @@ font-size: 12px;
   }
 
   .image{
-      width:"100%"
+      margin-top:80px;
+      border: solid 1px black; 
   }
