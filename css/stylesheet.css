@@ -20,8 +20,8 @@ h1 {
 
 h2 {
     font-family: sofia-pro, sans-serif;
-    font-size: 45px;
-    margin-bottom: 40px;
+    font-size: 50px;
+    margin-bottom: 20px;
     font-weight:700;
     color:black;
 
@@ -34,6 +34,7 @@ h3 {
 }
 
 p{
+    font-weight:300;
 }
 
 
