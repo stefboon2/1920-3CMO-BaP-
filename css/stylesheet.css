@@ -16,13 +16,15 @@
 body {
 	font-family: 'Muli', sans-serif;
     overflow-x: hidden;	
+    font-weight: 500;
     text-align:left;
 }
 
 h1 {
     font-family: 'Muli', sans-serif;
     font-size: 150px; 
-    line-height: 5px;
+    line-height: 55px;
+    font-weight:300;
 }
 
 
