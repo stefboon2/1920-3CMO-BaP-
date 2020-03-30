@@ -50,3 +50,7 @@ font-size: 12px;
       margin-bottom: 0px;
       overflow:hidden; 
   }
+
+  .image{
+      width:"100%"
+  }
