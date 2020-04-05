@@ -67,3 +67,7 @@ font-size: 13px;
       color:grey; 
       margin-bottom:10px;
   }
+
+  .border{
+      border:solid 1px lightgrey;
+  }
