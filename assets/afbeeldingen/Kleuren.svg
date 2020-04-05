@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 500" style="enable-background:new 0 0 800 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.05;}
+	.st1{fill:#FF0000;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;}
+	.st4{fill:#9B9A9A;}
+	.st5{font-family:'Roboto-Medium';}
+	.st6{font-size:9px;}
+	.st7{font-family:'Roboto-Light';}
+	.st8{opacity:0.6;fill:#FF0000;}
+</style>
+<rect x="67.3" y="167.33" class="st0" width="669.73" height="112.95"/>
+<circle class="st1" cx="112.99" cy="221.26" r="36.66"/>
+<circle class="st2" cx="275.28" cy="220.53" r="36.66"/>
+<g>
+	<rect x="164.51" y="187.39" class="st3" width="59.45" height="72"/>
+	<text transform="matrix(1 0 0 1 164.5099 194.1379)"><tspan x="0" y="0" class="st4 st5 st6">Rood </tspan><tspan x="0" y="21.6" class="st4 st5 st6">#ff0000</tspan><tspan x="0" y="32.4" class="st4 st5 st6">R255 G0 B0 </tspan><tspan x="0" y="43.2" class="st4 st5 st6">C M Y K</tspan></text>
+</g>
+<g>
+	<rect x="326.54" y="187.39" class="st3" width="59.45" height="72"/>
+	<text transform="matrix(1 0 0 1 326.5382 194.1379)"><tspan x="0" y="0" class="st4 st5 st6">Tint Rood* </tspan><tspan x="0" y="21.6" class="st4 st5 st6">#ff0000</tspan><tspan x="0" y="32.4" class="st4 st5 st6">R255 G0 B0 </tspan></text>
+</g>
+<g>
+	<rect x="70.24" y="293.57" class="st3" width="308.21" height="38.37"/>
+	<text transform="matrix(1 0 0 1 70.2427 300.3231)"><tspan x="0" y="0" class="st4 st7 st6">* We maken gebruik van een tint van het hoofdkleur om een transparante </tspan><tspan x="0" y="10.8" class="st4 st7 st6">indruk te creëren binnen het logo.</tspan></text>
+</g>
+<circle class="st8" cx="275.28" cy="221.26" r="36.66"/>
+<g>
+	<rect x="493.88" y="187.39" class="st3" width="59.45" height="72"/>
+	<text transform="matrix(1 0 0 1 493.8839 194.1379)"><tspan x="0" y="0" class="st4 st5 st6">Tint Rood* </tspan><tspan x="0" y="21.6" class="st4 st5 st6">#ff0000</tspan><tspan x="0" y="32.4" class="st4 st5 st6">R255 G0 B0 </tspan></text>
+</g>
+<circle class="st8" cx="442.63" cy="221.26" r="36.66"/>
+<g>
+	<rect x="655.25" y="187.39" class="st3" width="59.45" height="72"/>
+	<text transform="matrix(1 0 0 1 655.2538 194.1379)"><tspan x="0" y="0" class="st4 st5 st6">Tint Rood* </tspan><tspan x="0" y="21.6" class="st4 st5 st6">#ff0000</tspan><tspan x="0" y="32.4" class="st4 st5 st6">R255 G0 B0 </tspan></text>
+</g>
+<circle class="st8" cx="604" cy="221.26" r="36.66"/>
+</svg>
