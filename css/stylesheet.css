@@ -21,6 +21,7 @@ h2 {
     font-family: sofia-pro, sans-serif;
     font-size: 50px;
     margin-bottom: 20px;
+    margin-top:50px;
     font-weight:700;
     color:black;
 
@@ -29,6 +30,7 @@ h3 {
     font-family: sofia-pro, sans-serif;
     font-size: 24px;
     font-weight:700;
+    margin-top: 50px; 
     color:black; 
 }
 
