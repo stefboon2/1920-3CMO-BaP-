@@ -34,29 +34,25 @@ font-weight:300;
   }
 
 .col-md-6-primary{
-    background-color:white;
     border: solid rgba(211, 211, 211, 0.589) 0.5px;
-    color:white; 
     width:48%;
     margin:1%;
-    padding:60px;
-    height:550px;
+    padding:20px;
+    height:auto;
 }
 
 .col-md-6-primary-3{
-    background-color: white;
     border: solid rgba(211, 211, 211, 0.589) 0.5px;
     width:48%;
     margin:1%;
-    color:white; 
-    padding:60px;
-    height:550px;
+    padding:20px;
+    height:auto
 }
 
 section {padding:2rem;}
 .bg-primary {background-color:white;}
 .bg-gray {background-color:none; height:auto;}
-.bg-background {background-color:white; height:auto;}
+.bg-background {background-color:none; height:auto;}
 .bg-white {background-color:lightgray; height:auto;}
 .bg-footer {background-color:black; height:300px; margin-top:140px; margin-bottom: 0px;}
 
@@ -67,6 +63,6 @@ footer{
     text-align:center;
 }
 
-.arrow{
-    float:right;
+.float h3{
+    position: relative;
 }
