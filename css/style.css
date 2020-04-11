@@ -1,36 +1,19 @@
+
 header{
-width: 100%;
-margin-top:150px;
 }
 
-.tophead h1{
-    text-align:center;
-    font-size:25px;
-    margin-top:50px;
-    margin-bottom:50px;
-    line-height:30px; 
-}
-
-.headerimg{
-    height:900px;
-    background-color:lightgoldenrodyellow
-}
 .navigation{
-    background-color:lightgrey;
+    background-color:white;
     color:black;
+    width:100%;
+    text-align:center;
     overflow: hidden;
-    text-align:center;
-    font-weight:300;
-    padding-right: 400px;
-    font-size:16px !important;
-    text-align:center;
 }
 
 .navigation a {
 float: right;
 color: black;
 text-align: center;
-padding: 30px 30px;
 text-decoration: none;
 font-size: 13px;
 }
@@ -43,39 +26,36 @@ font-size: 13px;
 
 .navigation li a {
     display: block;
-    width: auto;
   }
 
   .navigation a:hover {
     color:
   }
 
-  .footer{
-      background-color:black; 
-      margin-bottom: 0px;
-      overflow:hidden; 
-  }
+.col-md-6-primary{
+    background-color:grey; 
+    width:50%;
+    padding:60px;
+    height:500px;
+}
 
-  .image{
-      margin-top:10px;
-      border: none; 
-      background-repeat: none;
-      vertical-align: center;
-      border: solid 2px lightgrey; 
-  }
+.col-md-6-primary-3{
+    background-image: image("")
+    width:50%;
+    padding:60px;
+    height:500px;
+}
 
-  .intro{
-      color:grey; 
-      margin-bottom:10px;
-  }
+section {padding:2rem;}
+.bg-primary {background-color:grey; height:600px;}
+.bg-gray {background-color:none; height:800px;}
+.bg-background {background-color:none; height:auto;}
+.bg-white {background-color:white; height:auto;}
+.bg-footer {background-color:black; height:300px; margin-bottom: 0px;}
 
-  .icons{
-      margin-bottom: 100px;
-      margin-top: 50px;
-  }
-
-  .block{
-      height:900px !important;
-      width:auto;
-  }
-.row{margin-top:30px;}
+footer{
+    color:white;
+    font-size:13px;
+    margin-top: 30px;
+    text-align:center;
+}
