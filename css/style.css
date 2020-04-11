@@ -16,7 +16,7 @@ float: left;
 color: black;
 text-align: center;
 text-decoration: none;
-padding:35px;
+padding:35px 65px;
 font-size: 15px;
 }
 
@@ -49,15 +49,15 @@ font-size: 15px;
 }
 
 section {padding:2rem;}
-.bg-primary {background-color:grey; height:600px;}
+.bg-primary {background-color:lightblue; height:auto;}
 .bg-gray {background-color:none; height:800px;}
 .bg-background {background-color:none; height:auto;}
 .bg-white {background-color:white; height:auto;}
-.bg-footer {background-color:black; height:300px; margin-bottom: 0px;}
+.bg-footer {background-color:black; height:300px; margin-top:140px; margin-bottom: 0px;}
 
 footer{
     color:white;
     font-size:13px;
-    margin-top: 30px;
+    margin-top: 50px;
     text-align:center;
 }
