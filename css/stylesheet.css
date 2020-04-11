@@ -10,10 +10,11 @@ body {
 
 h1 {
     font-family: sofia-pro, sans-serif;
-    font-size: 120px; 
-    line-height: 100px;
+    font-size: 80px; 
     font-weight:700;
+    line-height:70px;
     color:black;
+    margin-bottom: 20px;
 }
 
 
