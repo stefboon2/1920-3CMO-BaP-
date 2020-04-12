@@ -50,19 +50,18 @@ footer{
 
 
 .card{
-    text-align:center;
     border-radius:0;
     border:none;
     margin-top:-30px
 }
 
 .card-img-overlay{
-    background-color:rgba(0, 0, 0, 0.116);
+    background-color:rgba(0, 0, 0, 0.151);
     border-radius:0;
 }
 
 .card-title{
-    margin-top:200px;
+    margin-top:450px;
 }
 
 .card-icon{
@@ -70,6 +69,5 @@ width:40px;
 float:right;}
 
 .card :hover{
-    background-color:rgb(255, 0, 0);
     transition-delay: ease-in 10s 10s;
 }
