@@ -67,7 +67,3 @@ footer{
 .card-icon{
 width:40px;
 float:right;}
-
-.card :hover{
-    transition-delay: ease-in 10s 10s;
-}
