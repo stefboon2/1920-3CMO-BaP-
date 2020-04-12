@@ -52,6 +52,13 @@ h5{
     color:white; 
 
 }
+
+p{
+    font-family: sofia-pro, sans-serif;
+    font-size:17px;
+    font-weight:200;
+}
+
 ul{ font-weight: 300;}
 
 button{

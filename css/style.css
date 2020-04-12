@@ -1,3 +1,7 @@
+.container{
+    position:relative;
+}
+
 
 .navigation{
     background-color:rgba(211, 211, 211, 0.253);
@@ -67,3 +71,13 @@ footer{
 .card-icon{
 width:40px;
 float:right;}
+
+.img{
+    border: solid 1px gray;
+    padding:50px;
+}
+
+.img2{
+    background-color:rgba(128, 128, 128, 0.116);
+    padding:50px;
+}
