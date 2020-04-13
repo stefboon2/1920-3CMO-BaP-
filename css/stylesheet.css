@@ -57,11 +57,12 @@ p{
     font-family: sofia-pro, sans-serif;
     font-size:17px;
     font-weight:200;
+    margin-top:20px;
 }
 
 ul{ font-weight: 300;}
 
-button{
+.btn-primary{
     margin-top:20px;
     margin-bottom:20px;
     background-color:red;
@@ -72,4 +73,5 @@ button{
     text-align:center !important; 
     border-radius: 50px;
     border:none;
+    font-family: sofia-pro, sans-serif !important;
 }
